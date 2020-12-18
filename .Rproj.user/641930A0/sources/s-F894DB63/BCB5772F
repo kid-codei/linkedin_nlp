@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591290766002.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BCB5772F",
+    "lastKnownWriteTime" : 7953674097176870917,
+    "last_content_update" : 1591290766002,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "FB69E913",
+        "caption" : "linkedin_records",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=linkedin_records&cache_key=FB69E913",
+        "displayedObservations" : 39,
+        "environment" : "",
+        "expression" : "linkedin_records",
+        "object" : "linkedin_records",
+        "preview" : 0,
+        "totalObservations" : 39,
+        "variables" : 61
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
